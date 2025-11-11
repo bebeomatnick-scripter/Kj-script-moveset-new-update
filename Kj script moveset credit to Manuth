@@ -13,7 +13,7 @@ local baseButton = hotbarFrame:FindFirstChild("1").Base
 local ToolName = baseButton.ToolName
 
 
-ToolName.Text = "Ravage miss"
+ToolName.Text = "Ulimited Blow"
 
 
 local player = game.Players.LocalPlayer
